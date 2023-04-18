@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "6435eaa4dc9dcd6184d44945",
+    "name": "Caneta",
+    "quantity": 107,
+    "price": 1.99,
+    "createdAt": "2023-04-11T23:17:56.376Z",
+    "updatedAt": "2023-04-11T23:17:56.376Z",
+    "__v": 0
+  },
+  {
+    "_id": "64372c3d8d8020e72cc1b730",
+    "name": "Tesoura",
+    "quantity": 220,
+    "price": 10.99,
+    "createdAt": "2023-04-12T22:10:06.004Z",
+    "updatedAt": "2023-04-12T22:10:06.004Z",
+    "__v": 0
+  },
+  {
+    "_id": "64372c648d8020e72cc1b734",
+    "name": "PApel",
+    "quantity": 20,
+    "price": 6.99,
+    "createdAt": "2023-04-12T22:10:44.132Z",
+    "updatedAt": "2023-04-12T22:10:44.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "64389de357f7bcd8132b3a2d",
+    "name": "Impressora",
+    "quantity": 27,
+    "price": 645.22,
+    "createdAt": "2023-04-14T00:27:15.486Z",
+    "updatedAt": "2023-04-14T00:27:15.486Z",
+    "__v": 0
+  },
+  {
+    "_id": "64389df057f7bcd8132b3a2f",
+    "name": "Caderno",
+    "quantity": 276,
+    "price": 16.22,
+    "createdAt": "2023-04-14T00:27:28.274Z",
+    "updatedAt": "2023-04-14T00:27:28.274Z",
+    "__v": 0
+  },
+  {
+    "_id": "64389e2057f7bcd8132b3a31",
+    "name": "Lapis",
+    "quantity": 76,
+    "price": 7.86,
+    "createdAt": "2023-04-14T00:28:16.458Z",
+    "updatedAt": "2023-04-14T00:28:16.458Z",
+    "__v": 0
+  },
+  {
+    "_id": "64389e4757f7bcd8132b3a33",
+    "name": "Borracha",
+    "quantity": 176,
+    "price": 8.25,
+    "createdAt": "2023-04-14T00:28:55.046Z",
+    "updatedAt": "2023-04-14T00:28:55.046Z",
+    "__v": 0
+  },
+  {
+    "_id": "64389e9257f7bcd8132b3a35",
+    "name": "Teclado",
+    "quantity": 15,
+    "price": 538.25,
+    "createdAt": "2023-04-14T00:30:10.999Z",
+    "updatedAt": "2023-04-14T00:30:10.999Z",
+    "__v": 0
+  },
+  {
+    "_id": "64389eaa57f7bcd8132b3a37",
+    "name": "Mouse",
+    "quantity": 37,
+    "price": 378.25,
+    "createdAt": "2023-04-14T00:30:34.212Z",
+    "updatedAt": "2023-04-14T00:30:34.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "64389ec357f7bcd8132b3a39",
+    "name": "Computador",
+    "quantity": 12,
+    "price": 3378.25,
+    "createdAt": "2023-04-14T00:30:59.537Z",
+    "updatedAt": "2023-04-14T00:30:59.537Z",
+    "__v": 0
+  }
+]
